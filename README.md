@@ -40,9 +40,10 @@ while True:
 ```
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-18 142902" src="https://github.com/user-attachments/assets/d0f3fd25-fc9b-4a5a-bbce-a11a5f556f52" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 142936" src="https://github.com/user-attachments/assets/7cbdd51a-2d76-4776-a208-b195a5f64390" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-18 142936" src="https://github.com/user-attachments/assets/e30c568f-e43a-43c8-af95-f41393ff6280" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-18 142902" src="https://github.com/user-attachments/assets/faf3048e-5aa3-4f99-9166-9be2de747ff2" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
